@@ -2,7 +2,7 @@
  * Blocks for driving the Kitronik Servo:Lite Board
  */
 
-//% weight=100 color=#805e03 icon="\uf21b" block="NinjaBot"
+//% weight=100 color=#805e03 icon="\uf21b" block="ONEBIT"
 //% groups="['Robot','Calibration','Others']" 
 
 /* icon images from https://fontawesome.com/v4/cheatsheet/  */
