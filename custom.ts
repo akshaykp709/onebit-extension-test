@@ -7,7 +7,7 @@
 
 /* icon images from https://fontawesome.com/v4/cheatsheet/  */
 
-namespace NinjaBot {
+namespace ONEBIT {
 
     /**
      * **********************************************************************************************************************************************
